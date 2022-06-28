@@ -1,6 +1,6 @@
-# BlogPessoalFront
+# BlogPessoal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
 
